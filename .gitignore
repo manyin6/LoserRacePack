@@ -1,0 +1,5 @@
+stage/
+*.zip
+*.dll
+bin/
+obj/
