@@ -9,6 +9,6 @@
 
 ## 下载
 
-打开本仓 [Releases](https://github.com/manyin6/LoserRacePack/releases/latest)，下载 `败者赛车-方块岛.zip`。
+打开本仓 [Releases](https://github.com/manyin6/LoserRacePack/releases/latest)，下载 `LoserRace-BlockIsland.zip`。
 
 安装步骤见压缩包里的 `安装说明.txt`。
