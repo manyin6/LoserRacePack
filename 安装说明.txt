@@ -1,31 +1,21 @@
 R.E.P.O. 败者赛车 + 方块岛  ——  给朋友装
 
-进同一间房的人必须都装这两个，缺一个跑酷会对不齐，方块生物也挡不到。
+进同一间房的人必须都装这两个，缺一个跑酷会对不齐，方块生物也看不到。
 
-需要
-- Steam 版 R.E.P.O.（当前 0.5.1）
-- 已经装好 BepInEx 5（Gale 或手动都行）
+本包版本
+- 败者赛车 ArenaKeepRacing 1.4.2
+- 方块岛 BlockIslandRace 1.3.1
+需要 Steam 版 R.E.P.O. + 已装好的 BepInEx 5（Gale 或手动都行）。
 
 安装（Steam 直接开游戏）
 1. 完全退出游戏（任务栏也关掉）
 2. 打开游戏目录：Steam 库 → R.E.P.O. → 设置 → 管理 → 浏览本地文件
-3. 确认里面有 BepInEx 文件夹。没有就先装 BepInEx / 用 Gale。
-4. 把压缩包里的
-     ArenaKeepRacing
-     BlockIslandRace
-   两个文件夹整个拷进：
+3. 确认里面有 BepInEx 文件夹
+4. 把压缩包里的 ArenaKeepRacing、BlockIslandRace 两个文件夹整个拷进：
      …\REPO\BepInEx\plugins\
-5. 用 Steam 重新打开游戏（不要只关到菜单）
-
-用 Gale 的人
-- 拷到 Gale 档案的 BepInEx\plugins\ 下面，同样两个文件夹
-- 从 Gale 开局也行；和房主用同一套插件
-
-装好怎么看
-- 进游戏 Mods：能看到「败者赛车」「方块岛」
-- 团灭后会进赛车；方块岛开着时赛道是草地、海里有岛，路上会出生物
+5. 用 Steam 重新打开游戏
 
 注意
-- 不要拷 friend-board.json（那是别人的好友榜存档）
-- 改完 DLL 必须完全重启游戏
-- 房主也要装，客人更要装
+- 不要拷 friend-board.json
+- 改完 DLL 必须完全重启
+- 房主也要装
